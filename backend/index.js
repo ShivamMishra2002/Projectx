@@ -5,4 +5,5 @@ const PORT = 5173;
 
 app.listen(PORT, () => {
     console.log(`Port is listening at port ${PORT}`);
+    console.log(`Hello bro`)
 });
